@@ -2,7 +2,7 @@
 
 # Recipe App
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with `create-next-app`. A hosted version can be viewed [here](https://recipe-app-two-eosin.vercel.app/).
+This is a [React.js](https://react.dev/) project bootstrapped with `create-react-app`. A hosted version can be viewed [here](https://recipe-app-two-eosin.vercel.app/).
 
 ## Installation
 
@@ -17,7 +17,7 @@ npm install
 Use the following command to run de development environment
 
 ```bash
-npm run dev
+npm start
 ```
 
 ## License
